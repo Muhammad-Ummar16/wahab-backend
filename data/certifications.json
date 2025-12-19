@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1600000000000,
+    "name": "Google Social Media Marketing Professional",
+    "issuer": "Google / Coursera",
+    "year": "2023",
+    "image": "https://via.placeholder.com/600x400?text=Google+Certification",
+    "fullDescription": "A comprehensive program covering social media strategy, advertising, and analytics across major platforms. Developed professional skills in content creation, community management, and performance measurement.",
+    "verificationLink": "https://coursera.org/verify/example1"
+  },
+  {
+    "id": 1600000000001,
+    "name": "HubSpot Content Strategy Certification",
+    "issuer": "HubSpot Academy",
+    "year": "2022",
+    "image": "https://via.placeholder.com/600x400?text=HubSpot+Certification",
+    "fullDescription": "Focused on creating a content strategy that scales and engages audiences. Learned how to build a content plan, create content that converts, and measure content marketing effectiveness.",
+    "verificationLink": "https://academy.hubspot.com/verify/example2"
+  },
+  {
+    "id": 1600000000002,
+    "name": "Meta Certified Digital Marketing Associate",
+    "issuer": "Meta Blueprint",
+    "year": "2023",
+    "image": "https://via.placeholder.com/600x400?text=Meta+Certification",
+    "fullDescription": "Validated foundational proficiency in digital marketing using Meta's advertising tools. Covers campaign management, reporting, and strategic best practices for Facebook and Instagram.",
+    "verificationLink": "https://facebook.com/blueprint/verify/example3"
+  }
+]

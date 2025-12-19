@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Nike Brand Campaign",
+        "category": "Social Strategy",
+        "description": "Led an month-long social media campaign for Nike's new running line, resulting in a 25% increase in engagement.",
+        "link": "#"
+    },
+    {
+        "id": 2,
+        "title": "Local Cafe Rebrand",
+        "category": "Content Creation",
+        "description": "Developed a full content calendar and aesthetic for a local boutique cafe, doubling their Instagram following.",
+        "link": "#"
+    }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Social Marketing",
+    "skills": [
+      {
+        "name": "Campaign Strategy",
+        "level": 95
+      },
+      {
+        "name": "Target Audience Research",
+        "level": 90
+      },
+      {
+        "name": "Ad Campaign Management",
+        "level": 85
+      },
+      {
+        "name": "Lead Generation",
+        "level": 80
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Content & Design",
+    "skills": [
+      {
+        "name": "Content Creation",
+        "level": 88
+      },
+      {
+        "name": "Graphic Design (Canva/Adobe)",
+        "level": 82
+      },
+      {
+        "name": "Copywriting",
+        "level": 92
+      },
+      {
+        "name": "Video Editing (Shorts/Reels)",
+        "level": 78
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Analytics & Tools and techniquest",
+    "skills": [
+      {
+        "name": "Data Analysis",
+        "level": 85
+      },
+      {
+        "name": "SEO Optimization",
+        "level": 75
+      },
+      {
+        "name": "CRM Tools",
+        "level": 80
+      },
+      {
+        "name": "Google Analytics",
+        "level": 82
+      }
+    ]
+  }
+]
