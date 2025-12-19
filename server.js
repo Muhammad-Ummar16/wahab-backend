@@ -68,7 +68,11 @@ const readData = async (filename) => {
         return await fs.readJson(filePath);
     } catch (error) {
         console.error(`Error reading ${filename}:`, error);
-        return null;
+        // Return sensible defaults instead of null to prevent frontend crashes
+        if (['hero', 'about', 'contact'].some(res => filename.includes(res))) {
+            return {};
+        }
+        return [];
     }
 };
 
@@ -157,11 +161,9 @@ resources.forEach(resource => {
         }
     });
 });
-
 app.get('/', (req, res) => {
-  res.send('Backend is running 🚀');
+    res.send('Backend is running 🚀');
 });
-
 
 app.listen(PORT, () => {
     console.log(`Server running on ${BASE_URL}`);
