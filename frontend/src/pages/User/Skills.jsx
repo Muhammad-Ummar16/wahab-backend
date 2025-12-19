@@ -28,7 +28,7 @@ const Skills = () => {
         };
         fetchSkills();
     }, []);
-
+    //this is testing
     if (loading) return null;
 
     return (
