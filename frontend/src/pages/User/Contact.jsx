@@ -1,7 +1,7 @@
 import emailjs from '@emailjs/browser';
 import { useContext, useState, useRef, useEffect } from "react";
 import axios from 'axios';
-import API_URL from '../config';
+import API_URL from '../../config'
 
 import { motion } from "framer-motion";
 import { FaLinkedin, FaPhoneAlt, FaEnvelope, FaWhatsapp } from "react-icons/fa";
